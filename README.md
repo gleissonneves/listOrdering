@@ -24,7 +24,7 @@ git clone https://github.com/gleissonneves/listOrdering.git
     <title>Hello, world!</title>
   </head>
   <body>
-    <script src="./index.js"></script>
+    <script src="./listOrdering/index.js"></script>
   </body>
 </html>
 ```
